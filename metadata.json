@@ -1,0 +1,15 @@
+{
+  "name": "obalter-ssh",
+  "version": "0.1.0",
+  "author": "Olga Balter <olga@tera-sky.com>",
+  "summary": "This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/olgabalter/puppet-ssh",
+  "project_page": "https://github.com/olgabalter/puppet-ssh",
+  "issues_url": "https://github.com/olgabalter/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
